@@ -20,7 +20,7 @@ const Order = () => {
                 // Now i change the name value of the copied object to "Nathan"
                 // This is what setUser sees in the end:
                 // setUser({name: 'Nathan',email: 'john@email.com',age: 28})
-                { item: 'Shit', price: 1337 }
+                { item: 'Hello', price: 1337 }
             )
         );
     };
